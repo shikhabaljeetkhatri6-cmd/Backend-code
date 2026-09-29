@@ -38,7 +38,7 @@ app.get('/about', (req, res) => {
    console.log("about page visited");
 
 
-    res.send('Hello about page!'); });
+    res.send('HELLO ABOUT PAGE!'); });
 
 app.use((req, res) => {
     res.status(404).json({ success:false, message: 'Page not found' });
