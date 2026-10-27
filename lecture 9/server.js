@@ -11,7 +11,7 @@ const users=[
 ]
 
 app.get("/",(req,res)=>{
-    res.send("Hello ")
+    res.send("Hello World")
 })
 
 app.get("/users",(req,res)=>{
