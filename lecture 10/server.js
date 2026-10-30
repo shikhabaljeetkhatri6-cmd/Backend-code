@@ -11,7 +11,7 @@ const students=[
     {rollNo:2, name:"Khushi", section:"BCA-D"},
     {rollNo:3, name:"Amisha", section:"BCA-D"},
     {rollNo:4, name:"Yugma", section:"BCA-D"},
-    {rollNo:5, name:"Jiya", section:"BCA-D"}
+    {rollNo:5, name:"Nisha", section:"BCA-D"}
 ]
 ////////Read Operation
 app.get("/students",(req,res)=>{
