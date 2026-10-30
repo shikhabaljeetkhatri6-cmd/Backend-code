@@ -10,7 +10,7 @@ const students=[
     {rollNo:1, name:"Shikha", section:"BCA-D"},
     {rollNo:2, name:"Khushi", section:"BCA-D"},
     {rollNo:3, name:"Amisha", section:"BCA-D"},
-    {rollNo:4, name:"Nidhi", section:"BCA-D"},
+    {rollNo:4, name:"Yugma", section:"BCA-D"},
     {rollNo:5, name:"Jiya", section:"BCA-D"}
 ]
 ////////Read Operation
